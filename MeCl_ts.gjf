@@ -1,7 +1,7 @@
 %mem=1GB
-#p opt=modredundant am1
+#p opt=(ts,noeigentest,calcfc) freq=noraman am1
 
-MeCl scan
+MeCl ts
 
 -1 1
  C                  0.01994200    0.00032300    0.00003600
@@ -11,5 +11,4 @@ MeCl scan
  Cl                 2.14092600   -0.00011800   -0.00000800
  Cl                -2.14755300   -0.00010800   -0.00000700
 
-B 1 6 S 40 -0.050000
 
