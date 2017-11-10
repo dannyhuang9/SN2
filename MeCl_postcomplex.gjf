@@ -1,7 +1,7 @@
-%chk=C:\Users\Danny\Documents\Gaussian\SN2\MeCl_postcomplex.chk
-# hf/3-21g geom=connectivity
+%mem=1GB
+#p am1 opt freq=noraman
 
-Title Card Required
+MeCl post
 
 -1 1
  C                  0.38387700    0.00000900    0.00000000
@@ -11,10 +11,4 @@ Title Card Required
  Cl                 2.09011900   -0.00000300    0.00000000
  Cl                -2.21811900   -0.00000200    0.00000000
 
- 1 2 1.0 3 1.0 4 1.0
- 2
- 3
- 4
- 5
- 6
 
