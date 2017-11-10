@@ -1,0 +1,9 @@
+%mem=1GB
+#p am1 opt freq=noraman
+
+isolated Cl
+
+-1 1
+ Cl                -0.51612904    0.61290322    0.00000000
+
+
