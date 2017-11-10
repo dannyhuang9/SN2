@@ -1,5 +1,5 @@
 %mem=1GB
-#p am1 opt freq=noraman
+#p am1 opt freq=noraman scrf=(pcm,solvent=water)
 
 isolated MeCl
 

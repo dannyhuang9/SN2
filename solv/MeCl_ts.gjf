@@ -1,5 +1,5 @@
 %mem=1GB
-#p opt=(ts,noeigentest,calcfc) freq=noraman am1
+#p opt=(ts,noeigentest,calcfc) freq=noraman am1 scrf=(pcm,solvent=water)
 
 MeCl ts
 
